@@ -31,7 +31,7 @@ The following are the available languages dataset hyperlink, which can be found 
 - Afrikaans (af)
 - Albanian (sq)
 - Amharic (am)
-- Georgian (ge)
+- Georgian (ka)
 - Irish (ga)
 - Zulu (zu)
 - Serbian (sr)
