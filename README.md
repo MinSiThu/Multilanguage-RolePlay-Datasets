@@ -16,26 +16,26 @@ The base dataset is GPTeacher role play dataset by teknium 1, which can be found
 
 To the knowledge of my best, these datasets could be the very first role-play datasets for most of low resource languages listed below.
 
-The following are the available languages dataset hyperlink, which can be found on huggingface.
+The following are the available languages dataset hyperlink, which can be found on [huggingface collections](https://huggingface.co/collections/jojo-ai-mst/multilingual-roleplay-66f91668cb7628aaef4af6ed).
 
-- Burmese (my)
-- Lao (lo)
-- Khmer (khm)
-- Malay (ms)
-- Vietnam (vi)
-- Thai (th)
-- Hindi (hi)
-- Indonesian (id)
-- Filipino (fil)
-- Bengali (bn)
-- Afrikaans (af)
-- Albanian (sq)
-- Amharic (am)
-- Georgian (ka)
-- Irish (ga)
-- Zulu (zu)
-- Serbian (sr)
-- Kinyarwanda (rw)
+- [Burmese (my)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Burmese)
+- [Lao (lo)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Lao)
+- [Khmer (khm)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Khmer)
+- [Malay (ms)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Malay)
+- [Vietnam (vi)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Vietnam)
+- [Thai (th)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Thai)
+- [Hindi (hi)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Hindi)
+- [Indonesian (id)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Indonesian)
+- [Filipino (fil)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Filipino)
+- [Bengali (bn)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Bengali)
+- [Afrikaans (af)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Afrikaans)
+- [Albanian (sq)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Albanian)
+- [Amharic (am)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Amharic)
+- [Georgian (ka)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Georgian)
+- [Irish (ga)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Irish)
+- [Zulu (zu)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Zulu)
+- [Serbian (sr)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Serbian)
+- [Kinyarwanda (rw)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Kinyarwanda)
 - Somali (so)
 - Kurdish (ku)
 - Huasa (ha)
@@ -54,3 +54,5 @@ The following are the available languages dataset hyperlink, which can be found 
 - Norwegian (no)
 - Mongolian (mn)
 - Lithuanian (lt)
+
+For more information, contact [Min Si Thu](https://www.linkedin.com/in/min-si-thu/).
