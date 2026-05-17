@@ -38,7 +38,7 @@ The following are the available languages dataset hyperlink, which can be found 
 - [Kinyarwanda (rw)](https://huggingface.co/datasets/jojo-ai-mst/Roleplay-Kinyarwanda)
 - Somali (so)
 - Kurdish (ku)
-- Huasa (ha)
+- Hausa (ha)
 - Icelandic (is)
 - Nepali (ne)
 - Panjabi/Punjabi (pa)
